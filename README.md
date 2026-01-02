@@ -65,6 +65,10 @@ This project aims to **analyze customer churn behavior**, identify key churn dri
 ---
 <palign="centre">
 <img src="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/30977533-bd24-4706-9864-bc5f2ac840ca" />
+<img src="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1ef72c30-c5a4-4549-8a34-c1916b17beb0" />
+<img src="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/fd68e51b-2239-43bf-9bb8-a08d4a0782f4" />
+<img src="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/aba175ba-2e14-4900-95d6-07d53ec29821" />
+<img src="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f8dabf68-ecb1-4cb0-88ad-8c6ca64e05ce" />
 
 
 ## 📂 Project Structure
