@@ -1,64 +1,70 @@
-# 📊 Customer Churn Analysis Dashboard (Power BI)
+# 📊 Customer Churn Analysis | Power BI Dashboard
 
-## 📌 Project Overview
-This project focuses on analyzing **customer churn behavior** using interactive **Power BI dashboards**.  
-The goal is to identify key factors that drive customer churn and provide actionable insights to improve customer retention.
+## 🔍 Business Problem
+Customer churn is one of the biggest challenges for subscription-based businesses.  
+This project aims to **analyze customer churn behavior**, identify key churn drivers, and help decision-makers improve **customer retention strategies**.
 
-The dashboard analyzes churn based on:
-- Demographics
-- Contract type
-- Geography (State-level)
-- International & local calls
-- Payment methods
-- Monthly charges
+---
+
+## 🎯 Objectives
+- Measure overall churn rate
+- Identify high-risk customer segments
+- Analyze churn by contract, demographics, and geography
+- Understand the impact of pricing and service usage on churn
+
+---
+
+## 📈 Key KPIs
+- **Total Customers:** 6,687  
+- **Churned Customers:** 1,796  
+- **Churn Rate:** 26.86%  
+- **Average Monthly Charge:** $31.03  
 
 ---
 
 ## 🧠 Key Insights
-- Overall churn rate is **26.86%**
-- Monthly contract customers have a significantly higher churn rate compared to yearly contracts
-- Competitor-related reasons are the leading cause of churn
-- Senior customers show higher churn behavior
-- Higher monthly charges correlate with increased churn
-- Certain states show higher churn concentration
+- Customers with **monthly contracts** have the highest churn rate
+- **Competitor-related reasons** are the main cause of churn
+- **Senior customers** show higher churn behavior
+- Higher **monthly charges** increase churn probability
+- Some states show **churn concentration**, indicating regional issues
+- Customers with **international plans** are more likely to churn
 
 ---
 
 ## 📊 Dashboard Pages
-### 1️⃣ Overview
-- Total Customers
-- Number of Churned Customers
-- Overall Churn Rate
-- Average Monthly Charge
+### 🔹 Overview
+- Churn KPIs
 - Churn reasons & categories
-- Churn rate by state (Map)
+- Geographic churn distribution (State-level map)
 
-### 2️⃣ Demographics
+### 🔹 Demographics
 - Churn by gender and contract type
-- Churn distribution by age groups
-- Churn rate across different age bins
-- Relationship between monthly charges and churn
+- Age group & age bin analysis
+- Monthly charge vs churn relationship
 
-### 3️⃣ International Calls
-- Impact of international plan on churn
-- Extra international charges
-- Local vs international call usage
-- Churn rate by state (Geographic view)
+### 🔹 International Calls
+- International plan impact
+- Extra data & call charges
+- Local vs international call behavior
 
-### 4️⃣ Payment Method
-- Churn rate by payment method
-- Correlation between payment behavior and churn
+### 🔹 Payment Method
+- Churn analysis by payment type
+- Behavioral patterns linked to churn
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools & Skills Used
 - **Power BI Desktop**
-- **DAX Measures**
-- **Power Query**
+- **DAX (Measures & Calculations)**
+- **Power Query (ETL)**
 - **Data Modeling**
-- **Interactive Visualizations**
-- **Bing Maps (Geospatial Analysis)**
+- **Business Analysis**
+- **Data Visualization & Storytelling**
 
 ---
+<palign="centre">
+<img src="<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/30977533-bd24-4706-9864-bc5f2ac840ca" />
+
 
 ## 📂 Project Structure
